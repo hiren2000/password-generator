@@ -1,0 +1,13 @@
+.App {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #5584AC;
+}
+
+a {
+  text-decoration: none;
+}
+
